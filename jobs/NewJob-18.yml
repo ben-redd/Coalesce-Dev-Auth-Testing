@@ -1,0 +1,7 @@
+excludeSelector: ""
+fileVersion: 1
+id: "18"
+includeSelector: "{ location: SOURCE name: DAILY_14_TOTAL_SHORT } OR { location: SOURCE name: SUPPLIER } OR { location: DESTINATION name: STG_DAILY_14_TOTAL_SHORT } OR { location: DESTINATION name: FCT_SUPPLIER } OR { location: SOURCE name: CUSTOMER } OR { location: DESTINATION name: STG_CUSTOMER }"
+name: New Job
+type: Job
+version: 2
