@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "48"
+mappingDefinitions:
+  DESTINATION:
+    database: BEN_EDW
+    schema: DEV_AUTH_TESTING_KEYPAIR_ENV
+  SOURCE:
+    database: COALESCE_SAMPLE_DATABASE
+    schema: TPCH_SF001
+name: KeyPair Auth ENV
+type: Environment

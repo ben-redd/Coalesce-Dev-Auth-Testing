@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "47"
+mappingDefinitions:
+  DESTINATION:
+    database: BEN_EDW
+    schema: DEV_AUTH_TESTING_CLOUD_ENV
+  SOURCE:
+    database: COALESCE_SAMPLE_DATABASE
+    schema: TPCH_SF001
+name: Cloud Auth ENV
+type: Environment
